@@ -14,7 +14,7 @@ ItemName_FR = {
 	
 	ItemName_Base.HuntingRifle = "Fusil R788",	
 	ItemName_Base.VarmintRifle = "Fusil R700",
-	ItemName_Base.SniperRifle = "Fusil de Précision M24",
+	ItemName_Base.SniperRifle = "Fusil de PrÃ©cision M24",
 	
 	ItemName_Base.LeverRifle = "Carabine W1866",
 	ItemName_Base.LeverRifle2 = "Carabine R92-44",
@@ -25,19 +25,19 @@ ItemName_FR = {
 	ItemName_Base.Spas12 = "SPAS-12",
 	ItemName_Base.Spas12Folded = "SPAS-12",
 	
-	ItemName_Base.Shotgun = "Fusil à Pompe M500",
-	ItemName_Base.Shotgun2 = "Fusil à Pompe M590",
-	ItemName_Base.Shotgun2Bayonet = "Fusil à Pompe M590",
-	ItemName_Base.ShotgunSemi = "Fusil à Pompe R1187",
-	ItemName_Base.ShotgunSemi2 = "Fusil à Pompe R1187",
+	ItemName_Base.Shotgun = "Fusil Ã  Pompe M500",
+	ItemName_Base.Shotgun2 = "Fusil Ã  Pompe M590",
+	ItemName_Base.Shotgun2Bayonet = "Fusil Ã  Pompe M590",
+	ItemName_Base.ShotgunSemi = "Fusil Ã  Pompe R1187",
+	ItemName_Base.ShotgunSemi2 = "Fusil Ã  Pompe R1187",
 	ItemName_Base.ShotgunSilent = "Coin Toss",
 	
-	ItemName_Base.ShotgunSawnoff = "Fusil à Pompe M500 à canon scié",
-	ItemName_Base.ShotgunSawnoffNoStock = "Fusil à Pompe M500 à canon scié",
+	ItemName_Base.ShotgunSawnoff = "Fusil Ã  Pompe M500 Ã  canon sciÃ©",
+	ItemName_Base.ShotgunSawnoffNoStock = "Fusil Ã  Pompe M500 Ã  canon sciÃ©",
 	
-	ItemName_Base.DoubleBarrelShotgun = "Fusil à double canon",
-    ItemName_Base.DoubleBarrelShotgunSawnoff = "Fusil à double canon scié",
-	ItemName_Base.DoubleBarrelShotgunSawnoffNoStock = "Fusil à double canon scié",
+	ItemName_Base.DoubleBarrelShotgun = "Fusil Ã  double canon",
+    	ItemName_Base.DoubleBarrelShotgunSawnoff = "Fusil Ã  double canon sciÃ©",
+	ItemName_Base.DoubleBarrelShotgunSawnoffNoStock = "Fusil Ã  double canon sciÃ©",
 	
 	ItemName_Base.Revolver_Short = "Revolver M10-5",
 	ItemName_Base.Revolver_Long = "Revolver M29 Magnum",
@@ -68,7 +68,7 @@ ItemName_FR = {
 	ItemName_Base.M60MMG_Bipod = "M60 Machinegun",
 
 	ItemName_Base.AssaultRifleBayonet = "Fusil d'Assaut M16", 
-	ItemName_Base.M16Bayonet = "Baïonette M9", 
+	ItemName_Base.M16Bayonet = "BaÃ¯onette M9", 
 	
 	ItemName_Base.AssaultRifleMasterkey = "Fusil d'Assaut M16 Masterkey",	
 	ItemName_Base.AssaultRifleMasterkeyShotgun = "Fusil d'Assaut M16 Masterkey",	
@@ -79,8 +79,8 @@ ItemName_FR = {
 	ItemName_Base.AssaultRifle2 = "Fusil de Combat M14",
 	ItemName_Base.AssaultRifleM1 = "Fusil M1",
 
-	ItemName_Base.M2400_Shotgun = "M2400 Fusil combiné",
-	ItemName_Base.M2400_Rifle = "M2400 Fusil combiné",
+	ItemName_Base.M2400_Shotgun = "M2400 Fusil combinÃ©",
+	ItemName_Base.M2400_Rifle = "M2400 Fusil combinÃ©",
 	
 	/*Ammo*/	
 	ItemName_Base.762Box = "Boite de munitions de 7.62",
@@ -113,22 +113,22 @@ ItemName_FR = {
 	ItemName_Base.9mmClip17 = "Chargeur de G17",
 	
 	ItemName_Base.M60Belt = "Ceinture M60",
-	ItemName_Base.M60_Link = "Munitions M13 liées pour M60",
-	ItemName_Base.M60_Links_Box = "Boite de munitions M13 liées pour M60",
+	ItemName_Base.M60_Link = "Munitions M13 liÃ©es pour M60",
+	ItemName_Base.M60_Links_Box = "Boite de munitions M13 liÃ©es pour M60",
 	
 	/*Attachments*/
 	ItemName_Base.Bipod = "Bipod",
-	ItemName_Base.IronSight = "Mire améliorée",
+	ItemName_Base.IronSight = "Mire amÃ©liorÃ©e",
 	ItemName_Base.ShellHolder = "Porte-Munitions",
-	ItemName_Base.ShellStraps = "Sangle à Munitions",
-	ItemName_Base.Coupled556 = "Chargeurs 5.56 couplés",
-	ItemName_Base.Coupled762 = "Chargeurs 7.62 couplés",
-	ItemName_Base.x2Scope_Fake = "Lunette de visée x2",
-    ItemName_Base.x4Scope_Fake = "Lunette de visée x4",
-    ItemName_Base.x8Scope_Fake = "Lunette de visée x8",
+	ItemName_Base.ShellStraps = "Sangle Ã  Munitions",
+	ItemName_Base.Coupled556 = "Chargeurs 5.56 couplÃ©s",
+	ItemName_Base.Coupled762 = "Chargeurs 7.62 couplÃ©s",
+	ItemName_Base.x2Scope_Fake = "Lunette de visÃ©e x2",
+    	ItemName_Base.x4Scope_Fake = "Lunette de visÃ©e x4",
+   	 ItemName_Base.x8Scope_Fake = "Lunette de visÃ©e x8",
 	ItemName_Base.Sling = "Sangle en cuir",
 	ItemName_Base.Sling2 = "Sangle en nylon",
-	ItemName_Base.LightenedStock = "Crosse allégée",
+	ItemName_Base.LightenedStock = "Crosse allÃ©gÃ©e",
 	
 	/*Multical Technical Attachments*/
 	ItemName_VFECombination.CombinationShotgunShellNoClip_1 = "Cartouche de Fusil",
@@ -137,7 +137,7 @@ ItemName_FR = {
 	ItemName_VFECombination.CombinationM500ShotgunShellNoClip_2 = "M500 Sous le Canon (2)",
 	ItemName_VFECombination.CombinationM500ShotgunShellNoClip_3 = "M500 Sous le Canon (3)",
 	ItemName_VFECombination.CombinationM500ShotgunShellNoClip_4 = "M500 Sous le Canon (4)",
-	ItemName_VFECombination.Combination556M16NoClip_1 = "M16 avec une balle chambrée",
+	ItemName_VFECombination.Combination556M16NoClip_1 = "M16 avec une balle chambrÃ©e",
 	ItemName_VFECombination.Combination556M16Magazine_0 = "M16 avec Chargeur (0)",
 	ItemName_VFECombination.Combination556M16Magazine_1 = "M16 avec Chargeur (1)",
 	ItemName_VFECombination.Combination556M16Magazine_2 = "M16 avec Chargeur (2)",
@@ -177,21 +177,21 @@ ItemName_FR = {
 	ItemName_Base.FireKlean = "Lubrifiant pour Arme FireKlean",
 	
 	/*Gun Cases*/
-	ItemName_Base.VFERifleCase1 = "Etui à Fusil",
-	ItemName_Base.VFERifleCase2 = "Etui à Fusil",
-	ItemName_Base.VFERifleCase3 = "Etui à Fusil",
-	ItemName_Base.VFERifleCase4 = "Etui à Fusil",
-	ItemName_Base.VFERifleCase5 = "Etui à Fusil",
-	ItemName_Base.VFERifleCase6 = "Etui à Fusil",
-	ItemName_Base.VFERifleCase7 = "Etui à Fusil",
-	ItemName_Base.VFERifleCase8 = "Etui à Fusil",
-	ItemName_Base.VFERifleCase9 = "Etui à Fusil",
-	ItemName_Base.VFEShotgunCase1 = "Etui à Fusil",
-	ItemName_Base.VFEShotgunCase2 = "Etui à Fusil",
-	ItemName_Base.VFEShotgunCase3 = "Etui à Fusil",
-	ItemName_Base.VFEPistolCase1 = "Etui à Fusil",
-	ItemName_Base.VFEPistolCase2 = "Etui à Fusil",
-	ItemName_Base.VFEPistolCase3 = "Etui à Fusil",
+	ItemName_Base.VFERifleCase1 = "Etui Ã  Fusil",
+	ItemName_Base.VFERifleCase2 = "Etui Ã  Fusil",
+	ItemName_Base.VFERifleCase3 = "Etui Ã  Fusil",
+	ItemName_Base.VFERifleCase4 = "Etui Ã  Fusil",
+	ItemName_Base.VFERifleCase5 = "Etui Ã  Fusil",
+	ItemName_Base.VFERifleCase6 = "Etui Ã  Fusil",
+	ItemName_Base.VFERifleCase7 = "Etui Ã  Fusil",
+	ItemName_Base.VFERifleCase8 = "Etui Ã  Fusil",
+	ItemName_Base.VFERifleCase9 = "Etui Ã  Fusil",
+	ItemName_Base.VFEShotgunCase1 = "Etui Ã  Fusil",
+	ItemName_Base.VFEShotgunCase2 = "Etui Ã  Fusil",
+	ItemName_Base.VFEShotgunCase3 = "Etui Ã  Fusil",
+	ItemName_Base.VFEPistolCase1 = "Etui Ã  Fusil",
+	ItemName_Base.VFEPistolCase2 = "Etui Ã  Fusil",
+	ItemName_Base.VFEPistolCase3 = "Etui Ã  Fusil",
 	
 	/*Fake items for attachments*/
 	ItemName_Base.FakeItemSling = "tous les longs fusils",
