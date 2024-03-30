@@ -1,0 +1,27 @@
+Recipes_FR = {
+
+/*Actions*/
+Recipe_Saw_Off_Shotgun_Stock = "Scier le Fusil à Pompe",
+Recipe_Saw_Off_Double_Barrel_Shotgun_Stock = "Scier le Fusil à Pompe",
+
+Recipe_Open_Box_of_7.62_Ammo = "Ouvrir boite de munitions de 7.62",
+Recipe_Place_7.62_Ammo_in_Box = "Mettre munitions de 7.62 en boite",
+
+Recipe_Open_Box of_.22_Ammo = "Ouvrir boite de munitions de .22",
+Recipe_Place_.22_Ammo_in_Box = "Mettre munitions de .22 en boite",
+
+Recipe_Couple_5.56_Magazines = "Coupler Chargeurs 5.56",
+Recipe_Separate_5.56_Magazines = "Separer Chargeurs 5.56",
+
+Recipe_Couple_7.62_Magazines = "Coupler Chargeurs 7.62",
+Recipe_Separate_7.62_Magazines = "Separer Chargeurs 7.62",
+
+Recipe_Attach_M9_Bayonet_to_Spear = "Attacher la baïonette M9 à la Lance",
+Recipe_Reclaim_M9_Bayonet_from_Spear = "Retirer la baïonette M9 de la Lance",
+
+Recipe_Insert_.308_into_M13_Ammunition_Link = "Inserer munitions .308 dans le Lien de munitions M13",
+Recipe_Remove_.308_from_M13_Ammunition_Link = "Retirer munitions .308 du Lien de munitions M13",
+
+Recipe_Open_Box_of_M13_Links = "Ouvrir boite de Liens de Munitions M13",
+Recipe_Place_M13_Links_in_Box = "Mettre les Liens de Munitions M13 en boite",
+}

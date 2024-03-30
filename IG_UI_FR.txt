@@ -1,0 +1,39 @@
+IGUI_FR = {
+
+	IGUI_FirearmRadial_FoldStock = "Plier la crosse",
+	IGUI_FirearmRadial_UnfoldStock = "Déplier la crosse",
+	IGUI_FirearmRadial_UseBayonet = "Utiliser Baïonette",
+	IGUI_FirearmRadial_UseRifle = "Utiliser Arme",
+	
+	IGUI_ContextMenu_MoveToInv = "Déplace dans l'inventaire principal ou équipe",
+	
+	IGUI_ContextMenu_FoldStockArg = "Plier la crosse de %1",
+	IGUI_ContextMenu_UnfoldStockArg = "Déplier la crosse de %1",
+	IGUI_ContextMenu_RestoreStock = "Restorer la crosse",
+	
+	IGUI_ContextMenu_AttackBayonet = "Attaquer avec la baïonette",
+	IGUI_ContextMenu_AttackRifle = "Attaquer avec l'arme",
+	IGUI_ContextMenu_RequiresBayonet = "Requiert %1 dans l'inventaire principal",
+	IGUI_ContextMenu_BayonetBlocked = "Baïonette bloquée",
+	IGUI_ContextMenu_BayonetBlockedArg = "%1 bloque la baïonette",
+
+	IGUI_ContextMenu_AddSling = "Attacher Sangle en cuir",
+	IGUI_ContextMenu_AddSling2 = "Attacher Sangle en nylon",
+	IGUI_ContextMenu_AddSlingDescription = "Reduit poids",
+	IGUI_ContextMenu_AddSights = "Améliorer Visée",
+	IGUI_ContextMenu_AddSightsDescription = "Améliore la vitesse de visée",
+
+	IGUI_FirearmRadial_AltUseRifle = "Utiliser Fusil",
+	IGUI_FirearmRadial_AltUseShotgun = "Utiliser Fusil à Pompe",
+	IGUI_FirearmRadial_AltUseRifleArg = "Utiliser %1 Fusil",
+	IGUI_FirearmRadial_AltUseShotgunArg = "Utiliser %1 Fusil à Pompe",
+	IGUI_FirearmRadial_AltUseRifleTooltip = "Passer au tir au Fusil.",
+	IGUI_FirearmRadial_AltUseShotgunTooltip = "Passer au tir au Fusil à Pompe.",
+	
+	IGUI_FirearmRadial_AltFoldBipod = "Plier le Bipied",
+	IGUI_FirearmRadial_AltUnfoldBipod = "Déplier le Bipied",
+	IGUI_FirearmRadial_AltFoldBipodArg = "Plier le Bipied de %1",
+	IGUI_FirearmRadial_AltUnfoldBipodArg = "Déplier le Bipied de %1",
+	IGUI_FirearmRadial_AltFoldBipodTooltip = "Plier le Bipied pour le ranger.",
+	IGUI_FirearmRadial_AltUnfoldBipodTooltip = "Déplier le Bipied pour augmenter la vitesse de visée.",
+}
