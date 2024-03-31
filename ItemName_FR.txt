@@ -49,6 +49,7 @@ ItemName_FR = {
 	ItemName_Base.P229 = "P229",
 	ItemName_Base.CZ75 = "CZ 75",
 	ItemName_Base.MK23SOCOM = "MK23",
+	ItemName_Base.MK2 = "MK2",
 	
 	ItemName_Base.MP5 = "MP5",
 	ItemName_Base.MP5SD = "MP5SD",
