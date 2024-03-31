@@ -96,6 +96,7 @@ ItemName_FR = {
 	ItemName_Base.9mmClip20 = "Chargeur de TEC9",
 	ItemName_Base.9mmClip30 = "Chargeur de MP5",
 	ItemName_Base.9mmClip32 = "Chargeur de Uzi",
+	ItemName_Base.9mmClip13 = "Chargeur de P229",
 	ItemName_Base.45Clip32 = "Chargeur de M10",
 	ItemName_Base.45Clip12 = "Chargeur de MK23",
 	
